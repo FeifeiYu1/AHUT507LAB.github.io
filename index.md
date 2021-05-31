@@ -3,19 +3,13 @@
 
 
 👋 Hi! This is the 507 Lab of Anhui University of Technology.
-Our current work focuses on Robotics AI, and Deep Learning.
+Our current work focuses on Robotics, AI, Deep Learning and Point Cloud.
 ✨
 
 ## Team Member
-### Xiangrong Xu, Professor
-
 ### Jianhua Shan, Professor
 
 ### Quan Zhou, Student
-
-### Xuefei Liu, Student
-
-### Zuojun Zhu, Student
 
 ### Wenlong Ding, Student
 
@@ -28,7 +22,7 @@ Our current work focuses on Robotics AI, and Deep Learning.
 ### Quanquan Lv, Student
 
 ## Research Interest
-Robotics, Artificial Intelligence, Neural Network, Deep Learning
+Robotics, Point Cloud, Artificial Intelligence, Neural Network, Deep Learning
 
 ## Programing Language
 Python, C++, MATLAB
