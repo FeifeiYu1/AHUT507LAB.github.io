@@ -6,21 +6,37 @@
 Our current work focuses on Robotics AI, and Deep Learning.
 ✨
 
+## Team Member
+### Xiangrong Xu, Professor
 
+### Jianhua Shan, Professor
 
-### Research Interest
-Artificial Intelligence, Neural Network, Deep Learning
+### Quan Zhou, Student
 
-### Programing Language
+### Xuefei Liu, Student
+
+### Zuojun Zhu, Student
+
+### Wenlong Ding, Student
+
+### Chengyin Wang, Student
+
+### Feifei Yu, Student
+
+### Lei Zhao, Student
+
+### Quanquan Lv, Student
+
+## Research Interest
+Robotics, Artificial Intelligence, Neural Network, Deep Learning
+
+## Programing Language
 Python, C++, MATLAB
 
-### Language
+## Language
 Chinese, English
 
-### English Level
-CET-6
-
-### Published Paper
+## Published Paper
 1. Gait Neural Network for Human-Exoskeleton Interaction. <https://www.frontiersin.org/articles/10.3389/fnbot.2020.00058/full>
 2. Personal‐specific gait recognition based on latent orthogonal feature space. <https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12007>
 3. Cough Recognition Based on Mel-Spectrogram and Convolutional Neural Network. <https://www.frontiersin.org/articles/10.3389/frobt.2021.580080/full>
