@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to AHUT 507 LAB's Pages
 
-You can use the [editor on GitHub](https://github.com/AHUT507LAB/AHUT507LAB.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+👋 Hi! This is the 507 Lab of Anhui University of Technology.
+Our current work focuses on Robotics AI, and Deep Learning.
+✨
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Research Interest
+Artificial Intelligence, Neural Network, Deep Learning
 
-- Bulleted
-- List
+### Programing Language
+Python, C++, MATLAB
 
-1. Numbered
-2. List
+### Language
+Chinese, English
 
-**Bold** and _Italic_ and `Code` text
+### English Level
+CET-6
 
-[Link](url) and ![Image](src)
-```
+### Published Paper
+1. Gait Neural Network for Human-Exoskeleton Interaction. <https://www.frontiersin.org/articles/10.3389/fnbot.2020.00058/full>
+2. Personal‐specific gait recognition based on latent orthogonal feature space. <https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ccs2.12007>
+3. Cough Recognition Based on Mel-Spectrogram and Convolutional Neural Network. <https://www.frontiersin.org/articles/10.3389/frobt.2021.580080/full>
+4. A Survey of the Development of Wearable Devices. <https://ieeexplore.ieee.org/document/9195351>
+5. A Novel Pose Estimation Method of Object in Robotic Manipulation Using Vision-Based Tactile Sensor. <https://link.springer.com/chapter/10.1007%2F978-981-16-2336-3_24> 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AHUT507LAB/AHUT507LAB.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
