@@ -16,6 +16,8 @@ Our current work focuses on Robotics, AI, Deep Learning and Point Cloud.
 
 ### Chengyin Wang, Student
 
+### Shi Yuan, Student
+
 ### Xuefei Liu, Student
 
 ### Feifei Yu, Student
