@@ -24,6 +24,14 @@ Our current work focuses on Robotics, AI, Deep Learning and Point Cloud.
 
 ### Quanquan Lv, Student
 
+### Yuhao Sun，Student
+
+### Xingyu Ding，Student
+
+### Yu Yang，Student
+
+### Ding Zhang, Studnet
+
 ## Research Interest
 Robotics, Point Cloud, Artificial Intelligence, Neural Network, Deep Learning
 
