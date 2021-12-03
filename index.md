@@ -24,11 +24,11 @@ Our current work focuses on Robotics, AI, Deep Learning and Point Cloud.
 
 ### Quanquan Lv, Student
 
-### Yuhao Sun，Student
+### Yuhao Sun, Student
 
-### Xingyu Ding，Student
+### Xingyu Ding, Student
 
-### Yu Yang，Student
+### Yu Yang, Student
 
 ### Ding Zhang, Studnet
 
